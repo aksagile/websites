@@ -1,0 +1,120 @@
+body{
+    background:#0a1c26;
+    color: #eaeaea;
+    font-family: "Century Gothic"
+}
+#nav > ul > li{
+    display: inline-block;
+    margin-left: 1em;
+    padding: 10px;
+    color: #eaeaea;
+    line-height: 3.5em;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+#nav > ul > li a{
+     color: #eaeaea;
+    line-height: 3.5em;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.container #nav{
+    position: static;
+    right: none;
+    text-align: right;
+}
+#banner{
+    width: 1000px auto;
+    padding: 0px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #eaeaea;
+}
+#banner h1{
+    display: inline-block;
+    padding: 20px;
+    font-size: 150px;
+    letter-spacing: 2px;
+
+}
+#banner h3{
+    letter-spacing: 2px;
+    font-size: 40px;
+
+}
+#banner p{
+    display: block;
+    text-align: justify;
+    width:100px;
+    overflow: hidden;
+    margin:0px auto;
+    padding: 30px 30px;
+    font-size: 30px;
+}
+
+#fullwith0{
+    background: #ff7c00;
+    color:#0a1c26;
+    font-size: 20px;
+    text-align: justify;
+
+}
+#fullwith1{
+    background: #0a1c26;
+    color: #ff7c00;
+    font-size: 20px;
+    text-align: justify;
+
+
+}
+#section1{
+    width: 1000px;
+    overflow: hidden;
+    margin: 0px auto;
+    padding: 30px 30px;
+}
+#section2{
+    width: 1000px;
+    overflow: hidden;
+    margin: 0px auto;
+    padding: 30px 30px;
+}
+#section3{
+    width: 1000px;
+    overflow: hidden;
+    margin: 0px auto;
+    padding: 30px 30px;
+}
+#section5{
+    width: 1000px;
+    overflow: hidden;
+    margin: 0px auto;
+    padding: 30px 30px;
+}
+#section6{
+    width: 1000px;
+    overflow: hidden;
+    margin: 0px auto;
+    padding: 30px 30px;
+}
+
+.arrow-down-orange{
+    width: 0;
+    height: 0;
+    margin-left: auto;
+    margin-right: auto;
+    border-left: 50px solid transparent;
+    border-right: : 50px solid transparent;
+    border-top: 50px solid #ff7c00;
+}
+.arrow-down-grey{
+    width: 0;
+    height: 0;
+    margin-left: auto;
+    margin-right: auto;
+    border-left: 50px solid transparent;
+    border-right: : 50px solid transparent;
+    border-top: 50px solid #0a1c26;
+    position: relative;
+    top: 50px;
+}

@@ -1,0 +1,157 @@
+body{
+    background-image: url(captain_america_civil_war_cast_5k-1366x768.jpg);
+     background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: 100%;
+
+}
+h1, h2{
+    color: #ff6600;
+    text-transform: uppercase;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+
+}
+#logo h1{
+    line-height: 100px;
+    width: 100% auto;
+    font-size: 10em;
+    padding: 200px 30px;
+    background-image: url(wallpaper-new/618095.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: 100%;
+
+}
+#textsection1{
+    width: 100%;
+    overflow: hidden;
+    margin: 0px auto;
+    padding: 30px 30px;
+}
+.textsectionclass{
+    width: 1000px;
+    overflow: hidden;
+    margin: 0px auto;
+    padding: 30px 30px;
+}
+#ninecolumns{
+    overflow: hidden;
+    width: 1000px;
+    margin: 0px auto;
+    padding:30px 30px;
+    background: #eaeaea;
+    margin-bottom: 30px;
+}
+#ninecolumns #section1{
+    float: left;
+    width: 300px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    background-image: url(walpapers/monaco_purple_clouds_sunset-3840x2160.jpg);
+    padding: 300px 0px;
+    background-position: left;
+    background-size: cover;
+
+}
+#ninecolumns #section2{
+    float: left;
+    width: 300px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    background-image: url(walpapers/air_balloon_planet-1366x768.jpg);
+    padding: 300px 15px;
+    background-position: center;
+    background-size: cover;
+}
+#ninecolumns #section3{
+    float: right;
+    width: 300px;
+    margin-bottom: 10px;
+    background-image: url(walpapers/spectacular_sight-1366x768.jpg);
+    padding: 300px 0px;
+    background-position: right;
+    background-size: cover;
+}
+#ninecolumns #section4{
+    float: left;
+    width: 300px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    background-image: url(walpapers/smugglers_fall-1366x768.jpg);
+    padding: 300px 0px;
+    background-position: left;
+    background-size: cover;
+}
+#ninecolumns #section5{
+    float: left;
+    width: 300px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    background-image: url(walpapers/shanghai_sunset-1366x768.jpg);
+    padding: 300px 15px;
+    background-position: center;
+    background-size: cover;
+}
+#ninecolumns #section6{
+    float: right;
+    width: 300px;
+    margin-bottom: 10px;
+    background-image: url(walpapers/fly_ranch_geyser-1366x768.jpg);
+    padding: 300px 0px;
+   background-position: center;
+    background-size: cover;
+}
+#ninecolumns #section7{
+    float: left;
+    width: 300px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    background-image: url(walpapers/hobbit_mountains-1366x768.jpg);
+    padding: 300px 0px;
+    background-position: left;
+    background-size: cover;
+}
+#ninecolumns #section8{
+    float: left;
+    width: 300px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    background-image: url(walpapers/coal_train-1366x768.jpg);
+    padding: 300px 15px;
+    background-position: center;
+    background-size: cover;
+}
+#ninecolumns #section9{
+    float: right;
+    width: 300px;
+    margin-bottom: 10px;
+    background-image: url(walpapers/august_holidays-1366x768.jpg);
+    padding: 300px 0px;
+   background-position: center;
+    background-size: cover;
+}
+hr{
+    height: 30px;
+    border-style: solid;
+    border-color: #111111;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+
+}
+hr:before{
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -30px;
+    border-style: solid;
+    border-color: #111111;
+    border-width: 0 0 1px 0;
+    border-radius: 20px;
+}
+#logocol{
+    color: #eaeaea;
+}

@@ -1,0 +1,89 @@
+body{
+    background-image: url(mount_fuji_japan-1366x768.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: 100% 100%;
+    background-size: cover;
+
+    font-family: "Abel", sans-serif;
+    font-size: 20px;
+    color: #3b3b3b;
+}
+h1,h2{
+    font-family: "Gill Sans MT"
+        font-weight: bold;
+        text-transform: uppercase;
+        margin: 0px;
+        padding: 0px;
+        color: #111111;
+        text-align: center;
+}
+#header{
+    width:1000px;
+    margin: 150px auto;
+
+}
+@font-face{
+    font-family: FontAwesome;
+    src:url(https://netdna.bootstrapcdn.com/font-awesome/2.0/font//fontawesome-webfont);
+}
+img{
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#logo h1{
+
+    line-height: 150px;
+    letter-spacing: 2px;
+    font-size: 4em;
+    -webkit-stroke-width:3px;
+    -webkit-stroke-color:rgba(255,255,255,0.6);
+}
+#sixcolumns{
+    overflow: hidden;
+    width: 1000px;
+    margin: 0px auto;
+    padding: 30px 30px;
+    background: rgba(255,255,255,0.3);
+}
+#sixcolumns #column1{
+    float: left;
+    width: 300px;
+    margin-right: 50px;
+
+}
+#sixcolumns #column2{
+    float: left;
+    width: 300px;
+
+
+}
+#sixcolumns #column3{
+    float: right;
+    width: 300px;
+
+
+}
+#sixcolumns #column4{
+    float: left;
+    width: 300px;
+    margin-right: 50px;
+
+}
+#sixcolumns #column5{
+    float: left;
+    width: 300px;
+
+
+}#sixcolumns #column6{
+    float: right;
+    width: 300px;
+
+
+}
+p{
+    color: black;
+}
+

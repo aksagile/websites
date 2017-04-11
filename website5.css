@@ -1,0 +1,79 @@
+body{
+    background-image: url(wallpaper-new/680724.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+h1, h2{
+    color: #ff6600;
+    text-transform: uppercase;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+
+}
+#logo h1{
+    line-height: 100px;
+    width: 1000px auto;
+    font-size: 10em;
+    padding: 200px 30px;
+    background-color: #0a1c26
+
+}
+h2{
+    font-size: 3.0em;
+}
+.sectioncontent{
+    width: 100%;
+    overflow: hidden;
+    margin: 0px auto;
+    padding: 30px 30px;
+}
+#section1{
+    position: relative;
+    background-image: url(wallpaper-new/AdlmxlZ-batman-vs-superman-wallpaper.jpg);
+    height:100px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #eaeaea;
+    padding:300px 30px;
+    font-size: 30px;
+}
+#section2{
+    font-size: 30px;
+    color: #eaeaea;
+
+
+}
+#section3{
+    position: relative;
+    background-image: url(wallpaper-new/618095.jpg);
+    height:100px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #eaeaea;
+    padding:300px 30px;
+    font-size: 30px;
+}
+#section4{
+    font-size: 30px;
+    color: #eaeaea;
+}
+#section5{
+    position: relative;
+    background-image: url(wallpaper-new/3sQ5Pn4-batman-vs-superman-wallpaper.jpg);
+    height:100px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #eaeaea;
+    padding:300px 30px;
+    font-size: 30px;
+}
+#section6{
+    font-size: 30px;
+    color: #eaeaea;
+}
+#logocol{
+    color: #eaeaea;
+}
